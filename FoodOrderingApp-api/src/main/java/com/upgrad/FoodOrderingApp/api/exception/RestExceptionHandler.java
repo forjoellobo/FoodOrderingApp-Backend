@@ -49,6 +49,4 @@ public class RestExceptionHandler {
                 HttpStatus.FORBIDDEN);
     }
 
-
-
 }
